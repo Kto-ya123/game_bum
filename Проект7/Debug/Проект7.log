@@ -1,0 +1,36 @@
+﻿  job.cpp
+  game.cpp
+  Source.cpp
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(109): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(152): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(194): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(241): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(289): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(320): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(361): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(392): warning C4018: <=: несоответствие типов со знаком и без знака
+  pleasure.cpp
+  player.cpp
+  interfaceForGame.cpp
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(109): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(152): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(194): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(241): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(289): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(320): warning C4018: <=: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(361): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\проект7\проект7\interfaceforgame.cpp(392): warning C4018: <=: несоответствие типов со знаком и без знака
+  eat.cpp
+  Создание кода...
+  Проект7.vcxproj -> F:\Visual Studio Project\Projects\Проект7\Debug\Проект7.exe
+  Проект7.vcxproj -> F:\Visual Studio Project\Projects\Проект7\Debug\Проект7.pdb (Partial PDB)
